@@ -101,9 +101,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yhsajid0074&show_icons=true&locale=en&layout=compact" alt="YHSajid0074" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YHSajid0074&show_icons=true&locale=en&layout=compact" alt="YHSajid0074" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yhsajid0074&show_icons=true&locale=en" alt="YHSajid0074" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YHSajid0074&show_icons=true&locale=en" alt="YHSajid0074" /></p>
 
 
 
