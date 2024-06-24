@@ -11,13 +11,12 @@
 <p align="left">
 </p>
 
-Absolutely, I can adjust the size of the logos for you. Here's the updated markdown with the height and width set to 70:
 
 <h3 align="left">Languages and Tools:</h3>
 
 
 
-<img align="right" src="https://www.clipartmax.com/png/middle/174-1740580_zoro-chibi-by-kanokawa-kartun-one-piece-zoro.png" width="300" height="250"/>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQzb2hkYjF6MHpkcmJ0ZW02d3Nzbm44MDFtZzI2eTE0cnlkeWEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5wKfZYJHfdxW8/giphy.webp" width="300" height="250"/>
 
 
 
