@@ -12,6 +12,20 @@
 </p>
 
 
+<h3 align="left">Competitive Programming Profiles:</h3>
+<p align="left">
+<a href="https://leetcode.com/u/yeamim_hossain_sajid/" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/LeetCode-Profile-yellow.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" height="30"/>
+</a>
+<a href="https://codeforces.com/profile/paradox_71" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/badge/Codeforces-Profile-blue.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" height="30"/>
+</a>
+</p>
+
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 
