@@ -30,7 +30,7 @@
 
 
 
-<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQzb2hkYjF6MHpkcmJ0ZW02d3Nzbm44MDFtZzI2eTE0cnlkeWEydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5wKfZYJHfdxW8/giphy.webp" width="350" height="250"/>
+<img align="right" src="https://giffiles.alphacoders.com/218/218662.gif" width="350" height="250"/>
 
 
 
