@@ -30,7 +30,7 @@
 
 
 
-<img align="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="350" height="250"/>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" width="350" height="250" />
 
 
 
