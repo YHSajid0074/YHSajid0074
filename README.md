@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"><img src="https://github-profile-trophy.vercel.app/?username=YHSajid0074" alt="YHSajid0074" /></a> </p>
 
-<h3 align="left"> Connect with <a href="mailto:me:yeamimhossainsajid@gmail.com">me:yeamimhossainsajid@gmail.com</a></h3>
+<h3 align="left">📫 Connect with me:yeamimhossainsajid@gmail.com</h3>
 <p align="left"></p>
 
 <h3 align="left">Competitive Programming Profiles:</h3>
