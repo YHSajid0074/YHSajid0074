@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yeamim Hossain Sajid</h1>
-<h3 align="center">I'm currently enrolled in the Computer Science and Engineering program at United International University, where I'm cultivating a keen interest in Data Science and Full-stack Web Development. As a budding professional at the onset of a promising career path, I'm actively seeking collaborative projects that promise enriching learning experiences. Additionally, I'm gaining practical industry exposure by interning as a Software Developer at TechnoNext.</h3>
+<h3 align="center">I am a Java developer with expertise in building scalable, secure applications using Core Java, Spring Boot, and microservices architecture. My skills include Java 8+ features, RESTful APIs, Spring Security, and event-driven systems with Kafka and RabbitMQ.
+
+I have experience in database design, query optimization, and cloud deployment on AWS and Azure, using Docker and Kubernetes. With over 250 LeetCode problems solved, I bring strong problem-solving skills and a solid understanding of data structures and algorithms. Additionally, I have hands-on experience with Flutter for cross-platform mobile development.
+
+Passionate about innovation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YHSajid0074&label=Profile%20views&color=0e75b6&style=flat" alt="YHSajid0074" /> </p>
 
