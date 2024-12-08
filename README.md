@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yeamim Hossain Sajid</h1>
 <h2 align="center"> Java Developer | Spring Boot & Microservices Enthusiast | Problem Solver </h2>
 <h3 align="left">
-🎓 Student at United International University | 💼 Software Engineer at Technonext Software Limited.
+🎓 Student at United International University | 💼 Software Engineer at Technonext Software Limited.</h3>
 
+<h3 align="left"> Building scalable, secure applications with Java 8+, Spring Boot, and microservices. Skilled in RESTful APIs, Spring Security, and event-driven systems using Kafka & RabbitMQ. Strong database design and cloud deployment expertise (AWS, Azure, Docker, Kubernetes).</h3>
 
-Building scalable, secure applications with Java 8+, Spring Boot, and microservices. Skilled in RESTful APIs, Spring Security, and event-driven systems using Kafka & RabbitMQ. Strong database design and cloud deployment expertise (AWS, Azure, Docker, Kubernetes).
+<h3 align="left"> 📱 Cross-platform mobile development with Flutter</h3>
 
-📱 Cross-platform mobile development with Flutter
+<h3 align="left">💡 Passionate about innovation and problem-solving (250+ LeetCode problems solved).</h3>
 
-💡 Passionate about innovation and problem-solving (250+ LeetCode problems solved).
-
-🚀 Let’s collaborate and build amazing things together!.</h3>
+<h3 align="left">🚀 Let’s collaborate and build amazing things together!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YHSajid0074&label=Profile%20views&color=0e75b6&style=flat" alt="YHSajid0074" /> </p>
 
