@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yeamim Hossain Sajid</h1>
 <h2 align="center"> Java Developer | Spring Boot & Microservices Enthusiast | Problem Solver </h2>
 <h3 align="left">
-🎓 Student at United International University | 💼 Software Engineer at Technonext Software Limited.</h3>
+🎓 Student at United International University </h3>
 
 <h3 align="left"> Building scalable, secure applications with Java 8+, Spring Boot, and microservices. Skilled in RESTful APIs, Spring Security, and event-driven systems using Kafka & RabbitMQ. Strong database design and cloud deployment expertise (AWS, Azure, Docker, Kubernetes).</h3>
 
